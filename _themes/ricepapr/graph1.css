@@ -1,0 +1,83 @@
+.mstheme
+{
+	nav-banner-image: url(aricebnr.gif);
+	separator-image: url(aricerul.gif);
+	list-image-1: url(aricebu1.gif);
+	list-image-2: url(aricebu2.gif);
+	list-image-3: url(aricebu3.gif);
+	navbutton-horiz-pushed: url(aricehbs.gif);
+	navbutton-horiz-normal: url(aricehb.gif);
+	navbutton-horiz-hovered: url(aricehbh.gif);
+	navbutton-vert-pushed: url(aricevbs.gif);
+	navbutton-vert-normal: url(aricevb.gif);
+	navbutton-vert-hovered: url(aricevbh.gif);
+	navbutton-home-normal: url(aricehom.gif);
+	navbutton-home-hovered: url(aricehomh.gif);
+	navbutton-home-pushed: url(blhomep.gif);
+	navbutton-up-normal: url(ariceup.gif);
+	navbutton-up-hovered: url(ariceuph.gif);
+	navbutton-up-pushed: url(blupp.gif);
+	navbutton-prev-normal: url(aricepre.gif);
+	navbutton-prev-hovered: url(aricepreh.gif);
+	navbutton-prev-pushed: url(blprevp.gif);
+	navbutton-next-normal: url(aricenxt.gif);
+	navbutton-next-hovered: url(aricenxth.gif);
+	navbutton-next-pushed: url(blnextp.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: "Times New Roman", Times;
+	font-size: 6;
+	color: rgb(204,204,153);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: "Times New Roman", Times;
+	font-size: 2;
+	font-weight: bold;
+	color: rgb(0,0,0);
+}
+.mstheme-vert-navtxt
+{
+	font-family: "Times New Roman", Times;
+	font-size: 2;
+	font-weight: bold;
+	color: rgb(0,0,0);
+}
+.mstheme-navtxthome
+{
+	font-family: "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(204,204,153);
+}
+.mstheme-navtxtup
+{
+	font-family: "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(204,204,153);
+}
+.mstheme-navtxtprev
+{
+	font-family: "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(204,204,153);
+}
+.mstheme-navtxtnext
+{
+	font-family: "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(204,204,153);
+}
+UL
+{ 
+	list-style-image: url(aricebu1.gif);
+}
+UL UL
+{
+	list-style-image: url(aricebu2.gif);
+}
+UL UL UL
+{
+	list-style-image: url(aricebu3.gif);
+}
+

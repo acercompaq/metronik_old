@@ -1,0 +1,72 @@
+.mstheme
+{
+	nav-banner-image: url(ricebnr.gif);
+	separator-image: url(ricerul.gif);
+	list-image-1: url(ricebu1.gif);
+	list-image-2: url(ricebu2.gif);
+	list-image-3: url(ricebu3.gif);
+	navbutton-horiz-pushed: url(ricehbs.gif);
+	navbutton-horiz-normal: url(ricehb.gif);
+	navbutton-vert-pushed: url(ricevbs.gif);
+	navbutton-vert-normal: url(ricevb.gif);
+	navbutton-home-normal: url(ricehom.gif);
+	navbutton-up-normal: url(riceup.gif);
+	navbutton-prev-normal: url(ricepre.gif);
+	navbutton-next-normal: url(ricenxt.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: "Times New Roman", Times;
+	font-size: 6;
+	color: rgb(0,0,0);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: "Times New Roman", Times;
+	font-size: 2;
+	font-weight: bold;
+	color: rgb(255,255,204);
+}
+.mstheme-vert-navtxt
+{
+	font-family: "Times New Roman", Times;
+	font-size: 2;
+	font-weight: bold;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxthome
+{
+	font-family: "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(0,0,0);
+}
+.mstheme-navtxtup
+{
+	font-family: "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(0,0,0);
+}
+.mstheme-navtxtprev
+{
+	font-family: "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(0,0,0);
+}
+.mstheme-navtxtnext
+{
+	font-family: "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(0,0,0);
+}
+UL
+{ 
+	list-style-image: url(ricebu1.gif);
+}
+UL UL
+{
+	list-style-image: url(ricebu2.gif);
+}
+UL UL UL
+{
+	list-style-image: url(ricebu3.gif);
+}

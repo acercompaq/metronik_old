@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="jul 2003" total="30">
+<item str="Microsoft Internet Explorer 5.0" cnt="7" />
+<item str="grub-client-1.4.3" cnt="5" />
+<item str="Microsoft Internet Explorer 6.0" cnt="5" />
+<item str="grub-client-1.3.7" cnt="3" />
+<item str="Googlebot 2.1" cnt="2" />
+<item str="LinkWalker" cnt="2" />
+<item str="Netscape Navigator 4.0" cnt="2" />
+<item str="Ask Jeeves Teoma" cnt="1" />
+<item str="Scooter 3.2" cnt="1" />
+<item str="Netscape Navigator 5.0" cnt="1" />
+<item str="ia_archiver" cnt="1" />
+</month>
+<month val="aug 2003" total="53">
+<item str="Microsoft Internet Explorer 6.0" cnt="14" />
+<item str="Microsoft Internet Explorer 5.0" cnt="9" />
+<item str="grub-client-1.4.3" cnt="9" />
+<item str="Googlebot 2.1" cnt="4" />
+<item str="Scooter 3.3" cnt="2" />
+<item str="ia_archiver" cnt="2" />
+<item str="grub-client-1.3.7" cnt="2" />
+<item str="Microsoft Internet Explorer 5.5" cnt="2" />
+<item str="Ask Jeeves Teoma" cnt="1" />
+<item str="Netscape Navigator 3.0" cnt="1" />
+<item str="http: /www.twi.gs" cnt="1" />
+<item str="grub-client-1.2.1" cnt="1" />
+<item str="FAST-WebCrawler 3.8" cnt="1" />
+<item str="Netscape Navigator 5.0" cnt="1" />
+<item str="Netscape Navigator 4.0" cnt="1" />
+<item str="TurnitinBot 1.5" cnt="1" />
+</month>
+<month val="sep 2003" total="155">
+<item str="Microsoft Internet Explorer 6.0" cnt="77" />
+<item str="Googlebot 2.1" cnt="31" />
+<item str="Microsoft Internet Explorer 5.0" cnt="11" />
+<item str="grub-client-1.5.3" cnt="5" />
+<item str="grub-client-1.0.5" cnt="4" />
+<item str="Netscape Navigator 4.0" cnt="4" />
+<item str="Microsoft Internet Explorer 5.5" cnt="4" />
+<item str="grub-client-1.3.7" cnt="4" />
+<item str="grub-client-1.4.3" cnt="3" />
+<item str="Netscape Navigator 5.0" cnt="3" />
+<item str="Scooter 3.3" cnt="2" />
+<item str="Netscape Navigator 3.0" cnt="1" />
+<item str="InternetSeer.com" cnt="1" />
+<item str="FAST-WebCrawler 3.8" cnt="1" />
+<item str="Claymont.com" cnt="1" />
+<item str="TurnitinBot 1.5" cnt="1" />
+<item str="ia_archiver" cnt="1" />
+<item str="Scooter 3.2" cnt="1" />
+</month>
+<month val="oct 2003" total="103">
+<item str="Microsoft Internet Explorer 6.0" cnt="47" />
+<item str="Googlebot 2.1" cnt="13" />
+<item str="Microsoft Internet Explorer 5.0" cnt="11" />
+<item str="grub-client-1.0.5" cnt="6" />
+<item str="grub-client-1.5.3" cnt="5" />
+<item str="Netscape Navigator 4.0" cnt="3" />
+<item str="ia_archiver" cnt="3" />
+<item str="grub-client-1.4.3" cnt="3" />
+<item str="Netscape Navigator 3.0" cnt="2" />
+<item str="Ask Jeeves Teoma" cnt="2" />
+<item str="grub-client-1.3.7" cnt="2" />
+<item str="Microsoft Internet Explorer 4.5" cnt="1" />
+<item str="Netscape 7.0" cnt="1" />
+<item str="FAST-WebCrawler 3.8" cnt="1" />
+<item str="Scooter 3.2" cnt="1" />
+<item str="Netscape Navigator 5.0" cnt="1" />
+<item str="AppleWebKit 85" cnt="1" />
+</month>
+<month val="nov 2003" total="195">
+<item str="Googlebot 2.1" cnt="72" />
+<item str="Microsoft Internet Explorer 6.0" cnt="72" />
+<item str="grub-client-1.5.3" cnt="13" />
+<item str="Microsoft Internet Explorer 5.0" cnt="12" />
+<item str="grub-client-1.0.5" cnt="6" />
+<item str="Microsoft Internet Explorer 5.5" cnt="4" />
+<item str="Netscape Navigator 4.0" cnt="3" />
+<item str="ia_archiver" cnt="2" />
+<item str="Scooter 3.3" cnt="2" />
+<item str="psbot 0.1" cnt="2" />
+<item str="FAST-WebCrawler 3.8" cnt="2" />
+<item str="Netscape Navigator 5.0" cnt="2" />
+<item str="grub-client-1.3.7" cnt="1" />
+<item str="Netscape Navigator 3.0" cnt="1" />
+<item str="grub-client-1.4.3" cnt="1" />
+</month>
+<month val="dec 2003" total="191">
+<item str="Googlebot 2.1" cnt="80" />
+<item str="Microsoft Internet Explorer 6.0" cnt="62" />
+<item str="Microsoft Internet Explorer 5.0" cnt="12" />
+<item str="grub-client-1.5.3" cnt="12" />
+<item str="grub-client-1.0.5" cnt="5" />
+<item str="Microsoft Internet Explorer 5.5" cnt="4" />
+<item str="FAST-WebCrawler 3.8" cnt="3" />
+<item str="http: /www.almaden.ibm.com/cs/crawler   [c01]" cnt="2" />
+<item str="ia_archiver" cnt="2" />
+<item str="LinkWalker" cnt="2" />
+<item str="Netscape Navigator 3.0" cnt="1" />
+<item str="Microsoft URL Control - 6.00.8862" cnt="1" />
+<item str="grub-client-1.4.3" cnt="1" />
+<item str="URL_Spider_Pro 2.0" cnt="1" />
+<item str="Netscape Navigator 5.0" cnt="1" />
+<item str="grub-client-1.3.7" cnt="1" />
+<item str="arianna.libero.it Linux 2.4" cnt="1" />
+</month>
+<month val="jan 2004" total="102">
+<item str="Microsoft Internet Explorer 6.0" cnt="55" />
+<item str="Googlebot 2.1" cnt="14" />
+<item str="Microsoft Internet Explorer 5.0" cnt="12" />
+<item str="grub-client-1.5.3" cnt="9" />
+<item str="grub-client-1.4.3" cnt="2" />
+<item str="Netscape Navigator 4.0" cnt="2" />
+<item str="TurnitinBot 1.5" cnt="2" />
+<item str="arianna.libero.it Linux 2.4" cnt="2" />
+<item str="grub-client-1.3.7" cnt="1" />
+<item str="Netscape Navigator 5.0" cnt="1" />
+<item str="Microsoft Internet Explorer 5.5" cnt="1" />
+<item str="http: /www.almaden.ibm.com/cs/crawler   [c01]" cnt="1" />
+</month>
+</usagedata>

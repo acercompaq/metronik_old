@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="jul 2003" total="30">
+<item str="Windows 2000" cnt="8" />
+<item str="Crawl your own stuff with http: /grub.org" cnt="8" />
+<item str="Windows 98" cnt="3" />
+<item str="wn.zyborg@looksmart.net" cnt="2" />
+<item str="http: /www.googlebot.com/bot.html" cnt="2" />
+<item str="Slurp cat" cnt="1" />
+<item str="Windows 95" cnt="1" />
+</month>
+<month val="aug 2003" total="53">
+<item str="Windows 2000" cnt="15" />
+<item str="Crawl your own stuff with http: /grub.org" cnt="12" />
+<item str="Windows 98" cnt="8" />
+<item str="http: /www.googlebot.com/bot.html" cnt="4" />
+<item str="Windows NT" cnt="2" />
+<item str="wn.zyborg@looksmart.net" cnt="1" />
+<item str="compatible" cnt="1" />
+<item str="atw-crawler at fast dot no" cnt="1" />
+<item str="Slurp cat" cnt="1" />
+</month>
+<month val="sep 2003" total="155">
+<item str="Windows 2000" cnt="77" />
+<item str="http: /www.googlebot.com/bot.html" cnt="31" />
+<item str="Crawl your own stuff with http: /grub.org" cnt="16" />
+<item str="Windows 98" cnt="8" />
+<item str="Windows 95" cnt="4" />
+<item str="Windows ME" cnt="3" />
+<item str="Slurp cat" cnt="3" />
+<item str="wn.zyborg@looksmart.net" cnt="2" />
+<item str="atw-crawler at fast dot no" cnt="1" />
+<item str="compatible" cnt="1" />
+</month>
+<month val="oct 2003" total="103">
+<item str="Windows 2000" cnt="45" />
+<item str="Crawl your own stuff with http: /grub.org" cnt="16" />
+<item str="http: /www.googlebot.com/bot.html" cnt="13" />
+<item str="Windows 98" cnt="6" />
+<item str="Windows 95" cnt="3" />
+<item str="Macintosh" cnt="3" />
+<item str="Windows ME" cnt="2" />
+<item str="compatible" cnt="2" />
+<item str="Windows NT" cnt="1" />
+<item str="atw-crawler at fast dot no" cnt="1" />
+<item str="Slurp cat" cnt="1" />
+<item str="Windows XP" cnt="1" />
+</month>
+<month val="nov 2003" total="195">
+<item str="Windows 2000" cnt="74" />
+<item str="http: /www.googlebot.com/bot.html" cnt="72" />
+<item str="Crawl your own stuff with http: /grub.org" cnt="21" />
+<item str="Windows ME" cnt="5" />
+<item str="Windows NT" cnt="4" />
+<item str="Windows 98" cnt="4" />
+<item str="http: /www.picsearch.com/bot.html" cnt="2" />
+<item str="wn.zyborg@looksmart.net" cnt="2" />
+<item str="Windows 95" cnt="2" />
+<item str="Slurp cat" cnt="2" />
+<item str="atw-crawler at fast dot no" cnt="2" />
+<item str="compatible" cnt="1" />
+</month>
+<month val="dec 2003" total="191">
+<item str="http: /www.googlebot.com/bot.html" cnt="80" />
+<item str="Windows 2000" cnt="67" />
+<item str="Crawl your own stuff with http: /grub.org" cnt="19" />
+<item str="Windows ME" cnt="7" />
+<item str="Windows 98" cnt="3" />
+<item str="crawler at trd dot overture dot com" cnt="2" />
+<item str="Windows 95" cnt="1" />
+<item str="atw-crawler at fast dot no" cnt="1" />
+<item str="linux" cnt="1" />
+<item str="Slurp cat" cnt="1" />
+<item str="compatible" cnt="1" />
+</month>
+<month val="jan 2004" total="102">
+<item str="Windows 2000" cnt="62" />
+<item str="http: /www.googlebot.com/bot.html" cnt="14" />
+<item str="Crawl your own stuff with http: /grub.org" cnt="12" />
+<item str="Windows 98" cnt="3" />
+<item str="wn.zyborg@looksmart.net" cnt="2" />
+<item str="linux" cnt="2" />
+<item str="Windows NT" cnt="2" />
+<item str="Slurp cat" cnt="1" />
+<item str="Windows 95" cnt="1" />
+</month>
+</usagedata>
